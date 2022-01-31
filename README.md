@@ -1,7 +1,7 @@
 ## Hola, mi nombre es Santiago👋
 
 
-#### Me interesa el desarrollo web apuntado hacia el lado del cliente/ Frontend.
+#### Me interesa el desarrollo web apuntado hacia el lado del cliente.
 
 • Actualmente estoy buscando trabajo como desarrollador (frontend).
 
