@@ -1,6 +1,5 @@
-<h1 align= "center">Hola, mi nombre es Santiago👋</h1>
 
-<h2 align="center">Me interesa el desarrollo web apuntado hacia el lado del cliente.</h2>
+<h3>Me dedico al desarrollo frontend de paginas web</h3>
 
 • Actualmente estoy buscando trabajo como desarrollador (frontend).
 
