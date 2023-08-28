@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=header"/>
 
 <h1 align="center">Soy Santiago Carranza, bienvenido a mi perfil 👋</h1>
-<h3 align="center">Resido en Buenos Aires, Argentina y me dedico al desarrollo de software, utilizando Typescript, Angular, Nodejs, y MySql como herramientas principales para llevar a cabo mis proyectos.</h3>
+<h3 align="center">Resido en Buenos Aires, Argentina y me dedico al desarrollo web, utilizando Typescript, Angular, Nodejs, y MySql como herramientas principales para llevar a cabo mis proyectos.</h3>
 
 
 <div align="center">  
